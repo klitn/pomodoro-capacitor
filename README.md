@@ -1,6 +1,6 @@
 # 🍅 Pomodoro Timer App
 
-Ứng dụng Pomodoro Timer được xây dựng với Next.js và Capacitor, hỗ trợ thông báo cục bộ đa nền tảng (Cross-platform Apps). Ứng dụng giúp bạn quản lý thời gian hiệu quả theo phương pháp Pomodoro với giao diện tiếng Việt và nhiều tính năng tùy chỉnh.
+Ứng dụng Pomodoro Timer được xây dựng với Next.js và Capacitor, hỗ trợ thông báo cục bộ đa nền tảng (Cross-platform Apps). Ứng dụng giúp bạn quản lý thời gian hiệu quả theo phương pháp Pomodoro với giao diện thân thiện và nhiều tính năng tùy chỉnh.
 
 ## Screenshots
 
